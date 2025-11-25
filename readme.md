@@ -1,4 +1,4 @@
-# Cat vs Dog Binary Classification 🐱🐶
+# Binary Classification 
 
 A deep learning project that uses Convolutional Neural Networks (CNN) to classify images as either cats or dogs. This binary classification model is built using TensorFlow/Keras and achieves robust performance through data augmentation and regularization techniques.
 
@@ -194,7 +194,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-[GitHub Profile](https://github.com/jay1634)
+Your Name - [GitHub Profile](https://github.com/jay1634)
 
 ## 🙏 Acknowledgments
 
