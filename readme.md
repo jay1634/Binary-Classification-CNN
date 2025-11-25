@@ -41,9 +41,8 @@ data_path = r"path/to/your/data"
 ```
 
 Train the model:
-```bash
-python classifier.py
-```
+- Open the Jupyter notebook
+- Run all cells sequentially
 
 Predict on new image:
 ```python
@@ -59,6 +58,13 @@ img = load_img(r"path/to/image.jpg", target_size=(128,128))
 - Binary crossentropy loss
 
 ## Output
+
+- Visualizes training/validation accuracy and loss
+- Predicts class based on probability threshold (0.5)
+
+## License
+
+MIT License
 
 - Visualizes training/validation accuracy and loss
 - Predicts class based on probability threshold (0.5)
