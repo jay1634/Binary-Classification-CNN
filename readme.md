@@ -65,7 +65,7 @@ img = load_img(r"path/to/image.jpg", target_size=(128,128))
 
 ## Author
 
-Your Name - [GitHub Profile](https://github.com/jay1634)
+[GitHub Profile](https://github.com/jay1634)
 
 ## Acknowledgments
 
