@@ -62,13 +62,6 @@ img = load_img(r"path/to/image.jpg", target_size=(128,128))
 - Visualizes training/validation accuracy and loss
 - Predicts class based on probability threshold (0.5)
 
-## License
-
-MIT License
-
-- Visualizes training/validation accuracy and loss
-- Predicts class based on probability threshold (0.5)
-
 ## Author
 
 [GitHub Profile](https://github.com/jay1634)
