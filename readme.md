@@ -28,8 +28,8 @@ data/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/binary-classifier.git
-cd binary-classifier
+git clone https://github.com/jay1634/Binary-Classification-CNN.git
+cd Binary-Classification-CNN
 pip install -r requirements.txt
 ```
 
